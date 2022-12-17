@@ -1,2 +1,2 @@
 # sistemaBazar
-O projeto propõe a criação de um sistema em Java com DataBase para ser usado em um bazar de roupas.
+O projeto "sistemaBazar", é uma proposta de trabalho final da disciplina de Programação Orientada a Objetos no terceiro semestre do curso de Engenharia de Computação, ministrado pela Universidade Federal de Uberlândia. Tem como objetivo a criação de um sistema em Java com DataBase para ser usado em um bazar de roupas. Assim, usando os conceitos de banco de dados, apresenta as operações de CRUD (Create, Read, Update and Delete) para que seja possível controlar Fornecedores, Produtos e Recibos de um bazar de roupas.
